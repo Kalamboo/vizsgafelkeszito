@@ -1,1 +1,2 @@
 # vizsgafelkeszito
+Szabó Gergő
